@@ -149,7 +149,7 @@ else "Hello "+Name+"! " +Weather-Advice</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="554" y="113" width="100" height="50"/>
+        <dc:Bounds x="553" y="108" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_3A91701E-C025-412C-83EF-82D5729A77C2-AUTO-TARGET" dmnElementRef="_3A91701E-C025-412C-83EF-82D5729A77C2">
@@ -157,12 +157,12 @@ else "Hello "+Name+"! " +Weather-Advice</dmn:text>
         <di:waypoint x="881" y="163"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_E577D604-290F-4A4C-AED0-8279900467FD" dmnElementRef="_E577D604-290F-4A4C-AED0-8279900467FD">
-        <di:waypoint x="654" y="138"/>
+        <di:waypoint x="653" y="133"/>
         <di:waypoint x="831" y="138"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_0FF7FD40-9C37-4DA0-BA2F-9469F76FB8DC-AUTO-TARGET" dmnElementRef="_0FF7FD40-9C37-4DA0-BA2F-9469F76FB8DC">
         <di:waypoint x="724" y="275.1400453129425"/>
-        <di:waypoint x="604" y="113"/>
+        <di:waypoint x="603" y="108"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
